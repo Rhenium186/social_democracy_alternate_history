@@ -1,13 +1,13 @@
 title: Toni Sender
 is-pinned-card: true
 tags: advisor, left
-card-image: img/portraits/BraunOtto.jpg
+card-image: img/portraits/SenderToni.jpg
 view-if: sender_advisor = 1
 new-page: true 
 
 = Toni Sender
 
-Toni Sender is an organizer and writer who came from a bourgeois family, but was radicalized into socialism after her experiences in the workforce. She was a member of the anti-war USPD, but did not support armed revolution.
+Toni Sender is test an organizer and writer who came from a bourgeois family, but was radicalized into socialism after her experiences in the workforce. She was a member of the anti-war USPD, but did not support armed revolution.
 
 - @left_unity
 - @organizing_women
