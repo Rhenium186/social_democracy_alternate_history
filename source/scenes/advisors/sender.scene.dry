@@ -1,6 +1,6 @@
 title: Toni Sender
 is-pinned-card: true
-tags: advisor, left
+tags: advisor, centrist
 card-image: img/portraits/SenderToni.jpg
 view-if: sender_advisor = 1
 new-page: true 
